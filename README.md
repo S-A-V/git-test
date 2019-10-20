@@ -6,7 +6,7 @@
 一般来说，日常使用只要记住下图6个命令，就可以了。但是熟练使用，恐怕要记住60～100个命令。
 
 
-![image](https://app.yinxiang.com/shard/s36/res/59b7763b-78ff-4d0d-b4fa-92e45a181822.png)
+![image](../images/git.png)
 
 
 
