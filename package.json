@@ -1,0 +1,22 @@
+{
+  "name": "git-test",
+  "version": "0.0.4",
+  "description": "for exercising",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/S-A-V/git-test.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "Edison",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/S-A-V/git-test/issues"
+  },
+  "homepage": "https://github.com/S-A-V/git-test#readme"
+}
